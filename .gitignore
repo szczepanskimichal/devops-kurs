@@ -1,0 +1,39 @@
+# IDE
+.idea/
+*.iml
+*.swp
+*.swo
+*.swn
+*~
+
+# Rider
+.rider/
+.vs/
+.vscode/
+
+# Logs
+*.log
+system_info.log
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+
+# Build artifacts
+*.o
+*.out
+build/
+dist/
+
+# Environment
+.env
+.env.local
+.venv
+
